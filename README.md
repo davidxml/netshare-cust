@@ -1,2 +1,2 @@
-# netshare-cust
+# Netshare-cust
 A custom implementation of netshare technology
